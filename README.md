@@ -10,7 +10,7 @@ This project helped me understand how networking, compute, identity, and storage
 
 ## 🏗️ Architecture
 
-![Project Architecture](project-overview.jpeg)
+![Project Architecture](project-overview..jpeg)
 
 ---
 
